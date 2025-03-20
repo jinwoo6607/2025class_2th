@@ -77,3 +77,14 @@
 -----------------------------------------
 **************************************************
 _______________________________________________
+
+## 랭귀지뱃지 (Language Badge)
+![스크린샷 2025-03-20 132040](https://github.com/user-attachments/assets/20b0e726-394a-471b-b742-26302e494435)
+
+
+![Language](https://img.shields.io/github/languages/top/octocat/Hello-World)
+![Language](https://img.shields.io/github/languages/top/octocat/Hello-World?style=plastic)
+![Language](https://img.shields.io/github/languages/top/octocat/Hello-World?style=flat&color=blue)
+![Languages](https://img.shields.io/github/languages/count/octocat/Hello-World)
+
+
