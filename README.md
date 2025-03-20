@@ -22,7 +22,8 @@
 
 
 ## 체크리스트
-![스크린샷 2025-03-20 125145](https://github.com/user-attachments/assets/e175de90-95f0-40e7-bcf0-e18b08ff9654)
+![스크린샷 2025-03-20 125145](https://github.com/user-attachments/assets/e175de90-95f0-40e7-bcf0-e18b08ff9654)  
+
 -[ ] 1조 작업  
 
 -[X] 2조 작업 (완료)  
