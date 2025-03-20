@@ -7,7 +7,7 @@
 
 ## 공백및줄바꿈-참여자 목록
 ![image](https://github.com/user-attachments/assets/06d30201-269e-4d93-ad2d-a85d0f139430)
-![스크린샷 2025-03-20 130059](https://github.com/user-attachments/assets/006ecfb3-e678-4baf-a1b8-9c79db139027)
+
 
 1.**임도영**  
 
